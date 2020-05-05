@@ -12,7 +12,7 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "w", 
+        "hotKey": "k", 
         "modifiers": [
             "<alt>"
         ]
