@@ -2,7 +2,7 @@
     "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "up", 
+    "description": "arrow_up", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 

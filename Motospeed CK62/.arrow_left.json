@@ -1,8 +1,8 @@
 {
-    "usageCount": 14, 
+    "usageCount": 27, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "right", 
+    "description": "arrow_left", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,7 +12,7 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "l", 
+        "hotKey": "h", 
         "modifiers": [
             "<alt>"
         ]
